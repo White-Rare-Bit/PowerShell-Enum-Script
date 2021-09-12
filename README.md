@@ -1,5 +1,5 @@
 # PowerShell-Enum-Script
-An practice enumeration script checking for basic information taken from the Windows Registry and using Windows APIs.
+A practice enumeration script checking for basic information taken from the Windows Registry and using Windows APIs.
 
 It retrieves from the host:
 - The hostname
